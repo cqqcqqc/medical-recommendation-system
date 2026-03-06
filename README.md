@@ -63,3 +63,29 @@
 | ![微信赞赏码](./微信收款码.jpg) | ![支付宝赞赏码](./支付宝收款码.jpg) |
 
 > 感谢每一位支持者的慷慨与鼓励！❤️
+
+
+## 七、快速开始
+
+### 环境要求
+- Python 3.8+
+- Flask 2.0+
+- Node.js（可选，用于前端构建）
+
+### 安装依赖
+```bash
+# 克隆项目
+git clone https://github.com/cqqcqqc/medical-recommendation-system.git
+cd medical-recommendation-system
+
+# 安装 Python 依赖
+pip install -r requirements.txt
+
+# 启动 Flask 服务
+python app.py
+
+# 访问地址
+http://127.0.0.1:5000
+
+
+
